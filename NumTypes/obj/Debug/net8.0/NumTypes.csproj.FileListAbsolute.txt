@@ -1,0 +1,15 @@
+/workspaces/NumericTypes/NumTypes/obj/Debug/net8.0/NumTypes.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/NumericTypes/NumTypes/obj/Debug/net8.0/NumTypes.AssemblyInfoInputs.cache
+/workspaces/NumericTypes/NumTypes/obj/Debug/net8.0/NumTypes.AssemblyInfo.cs
+/workspaces/NumericTypes/NumTypes/obj/Debug/net8.0/NumTypes.csproj.CoreCompileInputs.cache
+/workspaces/NumericTypes/NumTypes/obj/Debug/net8.0/NumTypes.sourcelink.json
+/workspaces/NumericTypes/NumTypes/bin/Debug/net8.0/NumTypes
+/workspaces/NumericTypes/NumTypes/bin/Debug/net8.0/NumTypes.deps.json
+/workspaces/NumericTypes/NumTypes/bin/Debug/net8.0/NumTypes.runtimeconfig.json
+/workspaces/NumericTypes/NumTypes/bin/Debug/net8.0/NumTypes.dll
+/workspaces/NumericTypes/NumTypes/bin/Debug/net8.0/NumTypes.pdb
+/workspaces/NumericTypes/NumTypes/obj/Debug/net8.0/NumTypes.dll
+/workspaces/NumericTypes/NumTypes/obj/Debug/net8.0/refint/NumTypes.dll
+/workspaces/NumericTypes/NumTypes/obj/Debug/net8.0/NumTypes.pdb
+/workspaces/NumericTypes/NumTypes/obj/Debug/net8.0/NumTypes.genruntimeconfig.cache
+/workspaces/NumericTypes/NumTypes/obj/Debug/net8.0/ref/NumTypes.dll
